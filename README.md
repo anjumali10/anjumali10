@@ -1,8 +1,6 @@
 # Anjum Ali's Profile
 
-👋 Hi, I’m Anjum Ali, a Data Science enthusiast with a keen interest in Artificial Intelligence and Machine Learning.
-
-🌱 I’m currently gaining hands-on experience as a Data Science intern at Convergent Business Technologies, where I'm honing my skills in data analysis, machine learning, and statistical modeling.
+👋 Hi, I’m Anjum Ali, a Data Science enthusiast interested in Artificial Intelligence and Machine Learning.
 
 ## Areas of Interest
 - Data Science
