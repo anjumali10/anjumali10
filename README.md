@@ -6,9 +6,10 @@
 - Data Science
 - Artificial Intelligence
 - Machine Learning
+- Web Development
 
 ## Collaboration
-💞️ I’m looking to collaborate on Data Science projects to apply my skills and learn from others in the field.
+💞️ I’m looking to collaborate on Data Science and Web Development projects to apply my skills and learn from others in the field.
 
 ## Contact
 📫 Reach me through email at [engr.anjumali@gmail.com](mailto:engr.anjumali@gmail.com) for any collaboration or discussions.
